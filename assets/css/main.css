@@ -1026,7 +1026,7 @@ section,
 # About Section
 --------------------------------------------------------------*/
 .about {
-  background: url("../tempImgs/DSC_9690.JPG") center center;
+  background-color: #0c0b09;
   background-size: cover;
   position: relative;
   padding: 80px 0;
